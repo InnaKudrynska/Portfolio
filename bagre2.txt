@@ -1,0 +1,13 @@
+Files have no detailed description in the file manager
+
+1)open the File Manager
+
+2)open the folder with files
+
+ 
+
+Expexted result- user can look through bread crumbs of files and its details  in the separate columns :type,size, last Modified,
+
+Actual result - user can`t look through bread crumbs of files and its details  in the separate columns :type,size, last Modified
+
+Priority:medium

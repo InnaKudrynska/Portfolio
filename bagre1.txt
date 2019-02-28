@@ -1,0 +1,12 @@
+Lack of buttons 1)minimize2) increase 3)close on the right top in file manager
+
+
+Steps to reproduce:
+
+1.Open the File manager 
+
+Expexted result- user can 1)minimize2) increase or 3)close the app
+
+Actual result -user can`t 1)minimize2) increase 3)close the app
+
+Priority:high
